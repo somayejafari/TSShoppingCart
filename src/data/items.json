@@ -1,0 +1,53 @@
+
+
+ [
+    {
+        "id" : 1,
+        "name" : "Iphone",
+        "price" : 100,
+        "imgUrl" : "/imgs/iphone.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Laptop",
+        "price" : 100,
+        "imgUrl" : "/imgs/laptop.jfif"
+    },
+    {
+        "id" : 3,
+        "name" : "Camera",
+        "price" : 100,
+        "imgUrl" : "/imgs/camera.jfif"
+    },
+    {
+        "id" : 4,
+        "name" : "Headphone",
+        "price" : 100,
+        "imgUrl" : "/imgs/headphone.jfif"
+    },
+    {
+        "id" : 5,
+        "name" : "Notebook",
+        "price" : 100,
+        "imgUrl" : "/imgs/noteBook (1).jfif"
+    },
+    {
+        "id" : 6,
+        "name" : "Smart watch",
+        "price" : 13400,
+        "imgUrl" : "/imgs/smartWatch.jfif"
+    },
+    {
+        "id" :7,
+        "name" : " Flashlight",
+        "price" : 1000,
+        "imgUrl" : "/imgs/flashlight.jfif"
+    },
+    {
+        "id" :8,
+        "name" : "  ps5",
+        "price" : 1500,
+        "imgUrl" : "/imgs/ps5.jfif"
+    }
+]
+
